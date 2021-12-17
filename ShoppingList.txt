@@ -6,3 +6,5 @@ Bananas
 Cherries
 Carrots
 Kiwi
+Cucumbers
+Raddishes
